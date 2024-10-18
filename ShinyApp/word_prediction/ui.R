@@ -51,6 +51,15 @@ ui <- fluidPage(
                         tags$li("For better predictions, enter at least a few words."),
                         tags$li("The model works best with common phrases and expressions."),
                         tags$li("Explore different inputs to see how predictions change!")
+                      ),
+                      h4("For more information:"),
+                      tags$ul(
+                        tags$li(
+                          "Please visit my ", 
+                          tags$a(href="https://github.com/Heesun-C/Natural_Lang_Process", 
+                                 "GitHub repository", 
+                                 target="_blank")
+                        )
                       )
                )
              )
