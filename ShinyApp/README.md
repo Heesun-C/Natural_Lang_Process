@@ -30,6 +30,9 @@ This Shiny app predicts the next word based on user input using a hybrid model c
 
 ## Usage
 
-1. Enter text in the input box
-2. Click "Predict Next Word" or use real-time predictions
-3. View predicted words and their probabilities
+This app predicts the next word based on the text you input. Here's how to use it:
+
+1. Enter some text in the input box on the 'Predict' tab.
+2. Click the 'Predict Next Word' button or use real-time predictions.
+3. View the predicted next words and their probabilities.
+4. The bar chart visualizes the prediction probabilities.
